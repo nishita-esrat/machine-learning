@@ -1,0 +1,12 @@
+
+# Ignore the env folder
+env/
+
+# Ignore Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore Python bytecode files
+__pycache__/
+
+# Ignore other system files
+.DS_Store
