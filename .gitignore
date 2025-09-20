@@ -1,6 +1,6 @@
 
 # Ignore the env folder
-env/
+ml-env/
 
 # Ignore Jupyter notebook checkpoints
 .ipynb_checkpoints/
