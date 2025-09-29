@@ -9,4 +9,5 @@ dependencies:
   - numpy
   - python=3.11
   - pandas
+  - matplotlib
 prefix: E:\machine-learning\ml-env
