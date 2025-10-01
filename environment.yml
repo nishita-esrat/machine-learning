@@ -10,4 +10,5 @@ dependencies:
   - python=3.11
   - pandas
   - matplotlib
+  - seaborn
 prefix: E:\machine-learning\ml-env
