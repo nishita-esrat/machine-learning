@@ -11,4 +11,5 @@ dependencies:
   - pandas
   - matplotlib
   - seaborn
+  - scipy
 prefix: E:\machine-learning\ml-env
